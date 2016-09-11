@@ -125,7 +125,7 @@
       <div class="col-md-6">
         <center><h1>¿QUIEN SOY YO?</h1></center>
         <br>
-        <p align="justify">Soy una persona emprendedora, alegre y confiable, siempre buscando la manera de ser una mejor persona. </p>
+        <p align="justify">Soy una persona emprendedora, alegre y confiable, sna. </p>
 
         <p align="justify">Desde pequeño tuve agilidad por la computación y la informática, a los 12 años de edad me encontraba cursando un Técnico en Mantenimiento de computadores, después de esa carrera comencé a estudiar el Técnico en sistemas, luego el de diseño gráfico, arquitectura, Tecnólogo en sistemas y ya casi termino mi ingeniería en sistemas. </p>
 
